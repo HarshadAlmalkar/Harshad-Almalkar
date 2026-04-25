@@ -40,19 +40,31 @@ GenAI-powered compliance engine that audits brand video content against rulebook
 
 **AI/ML & GenAI**
 
+Machine Learning · Deep Learning · NLP · LLMs · Generative AI · RAG · Agentic AI  
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-000000?style=for-the-badge&logoColor=white)
+![NLTK](https://img.shields.io/badge/NLTK-154F3B?style=for-the-badge)
+
+---
 
 **MLOps & Deployment**
+
+FastAPI · Docker · MLflow · DVC · GitHub Actions (CI/CD) · LangSmith  
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
+---
+
 **Cloud**
+
+AWS (S3, EC2, ECR) · Azure (OpenAI, AI Search, Video Indexer, Blob Storage, Monitor) · GCP (GCS, Cloud Run, Artifact Registry)  
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
@@ -60,10 +72,16 @@ GenAI-powered compliance engine that audits brand video content against rulebook
 
 ---
 
+**Data & Visualization**
+
+Pandas · NumPy · Matplotlib · Seaborn  
+
+---
+
 ## 📜 Certifications
 
-- 🏅 **Preparing for Google Cloud Certification: ML Engineer** — Google Cloud Training · Coursera *(Jun 2022)*
-- 🏅 **Introduction to Machine Learning** — Duke University · Coursera *(Apr 2021)*
+- 🏅 **Preparing for Google Cloud Certification: ML Engineer** — Google Cloud Training · Coursera *(Jun 2022)*  
+- 🏅 **Introduction to Machine Learning** — Duke University · Coursera *(Apr 2021)*  
 
 ---
 
