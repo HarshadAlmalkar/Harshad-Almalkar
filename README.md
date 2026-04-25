@@ -1,6 +1,3 @@
-# Harshad-Almalkar
-
-
 # Hey, I'm Harshad Almalkar 👋
 
 ### I build production-ready AI systems — not just notebooks.
